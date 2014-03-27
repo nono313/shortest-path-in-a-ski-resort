@@ -8,4 +8,5 @@ Create a graph by parsing a text file representing a ski resort with stations as
 Compute the shortest path between two points on the maps with the possibility of not using every types of roads (e.g : no black tracks).
 
 ###Implementation
+This project was developped in C++.
 Two algorithms for shortest paths computations are implemented in this project : Dijkstra's and Floyd Warshall's.
